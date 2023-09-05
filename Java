@@ -1,0 +1,18 @@
+public available everywhere
+private only in this class
+protected in this class and inheriting classes
+static, method can be called without an object
+
+Math.random(); random number from <0,1)
+
+simple types: int, double, float, boolean, char, short
+not an object /\
+
+if you change the type and click on the error it can convert it basically (int rng= (int) (Math.random()*100+1);) 
+(Math.random is a double)
+
+Scanner keyboard = new Scanner(System.in);
+basicaly an input in the terminal
+
+int diff= rng > input ? rng - input : input - rng;
+difference between value of input and of rng
