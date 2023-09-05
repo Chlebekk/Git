@@ -22,3 +22,5 @@ set- HashSet usually not indexed, cannot repeat
 
 table in java can only have simple vars
 table cannot change size while running the program
+
+complex vars are objects and have methods while simple ones are not objects and don't have methods, ex. int Integer
