@@ -16,3 +16,9 @@ basicaly an input in the terminal
 
 int diff= rng > input ? rng - input : input - rng;
 difference between value of input and of rng
+
+lists- ArrayList, Linked list Indexed elements can repeat
+set- HashSet usually not indexed, cannot repeat
+
+table in java can only have simple vars
+table cannot change size while running the program
